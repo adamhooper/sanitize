@@ -23,4 +23,3 @@ Gem::Specification.new do |s|
     'lib/sanitize/config/restricted.rb'
   ]
 end
-
